@@ -6,8 +6,9 @@
 
 :root {
     --white: #FFFFFF;
-    --black: #1F1C2F;
+    --black: #232323;
     --background: #ECF1F9;
+    --gray: #E9E9E9;
 }
 
 @media (max-width: 1080px) {
@@ -36,5 +37,5 @@ body {
  }
  
  h1, h2, h3, h4, h5, h6, strong {
-    font-weight: 500;
+    font-weight: 900;
 }
