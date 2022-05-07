@@ -9,7 +9,7 @@ export function ProductCard() {
                 priority
                 src="/images/terno.jpg"
                 alt="Terno"
-                width={100}
+                width={250}
                 height={320}
             />
             <h3>Terno Xadrez</h3>
@@ -17,9 +17,10 @@ export function ProductCard() {
             <hr />
             <div className={styles.content}>
                 <p>R$400,00</p>
-                
+
                 <div className={styles.favoriteContainer}>
                     <Image
+                        priority
                         src="/images/heart.svg"
                         alt="Ícone de coração"
                         width={24}
