@@ -12,7 +12,7 @@ export function ProductCard() {
                 width={250}
                 height={320}
             />
-            <h3>Terno Xadrez</h3>
+            <h3>Terno Executivo</h3>
 
             <hr />
             <div className={styles.content}>
